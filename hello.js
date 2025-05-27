@@ -1,3 +1,2 @@
-console.log('Hello everyone, welcome to my channel')
-
+onsole.log('Welcome git')
 //yoo john here
