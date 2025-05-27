@@ -1,3 +1,2 @@
-console.log('Welcome git')
-
-//dev adrian
+onsole.log('Welcome git')
+//yoo john here
